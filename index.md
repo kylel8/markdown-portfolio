@@ -6,8 +6,7 @@ layout: default
 
 <br>
 
-![Brown swiss image](https://upload.wikimedia.org/wikipedia/commons/e/e9/Brown_swiss.jpg)
-
+![Brown_swiss](https://user-images.githubusercontent.com/84306760/162699555-5b3cd2a2-23ae-49b1-b367-6e730a9ec4de.jpg)
 <br>
 
 {% include 03-links.md %}
