@@ -6,7 +6,7 @@ layout: default
 
 <br>
 
-{% include 02-image.md %}
+![Brown swiss image](https://upload.wikimedia.org/wikipedia/commons/e/e9/Brown_swiss.jpg)
 
 <br>
 
